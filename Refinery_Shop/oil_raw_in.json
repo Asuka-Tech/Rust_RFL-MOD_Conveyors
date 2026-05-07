@@ -1,0 +1,10 @@
+[
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 6,
+    "BufferAmount": 13,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "crude.oil"
+  }
+]
